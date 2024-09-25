@@ -6,16 +6,16 @@
 
 ## Index
 
-- 💎 [Editor's Choices](#editors-choices)
-- 🎤 [Speech & Voice](#speech--voice)
-- 🎵 [Music & Audio](#music--audio)
-- 🎥 [Image & Video Editing](#image--video-editing)
-- 🎨 [Graphic Design](#graphic-design)
-- 💻 [Code](#code)
-- 📝 [Meeting Assistants](#meeting-assistants)
-- 📚 [Academia](#academia)
-- 🚀 [Productivity](#productivity)
-- 📊 [Data & Analytics](#data--analytics)
+- 💎 [Editor's Choices](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-editors-choices)
+- 🎤 [Speech & Voice](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-speech--voice)
+- 🎵 [Music & Audio](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-music--audio)
+- 🎥 [Image & Video Editing](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-image--video-editing)
+- 🎨 [Graphic Design](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-graphic-design)
+- 💻 [Code](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-code)
+- 📝 [Meeting Assistants](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-meeting-assistants)
+- 📚 [Academia](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-academia)
+- 🚀 [Productivity](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-productivity)
+- 📊 [Data & Analytics](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-data--analytics)
 
 ### 💎 Editor's Choices
 
