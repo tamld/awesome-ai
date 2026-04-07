@@ -1,5 +1,10 @@
 # 🌟 AI Tools for Office and Productivity
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![AI Tools](https://img.shields.io/badge/AI-Tools%20%26%20Productivity-9333EA)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
 ## Introduction
 
 🎉 AI tools are transforming how we work by enhancing creativity, automating tasks, and offering new levels of efficiency. This list of tools spans various applications, providing solutions for voice synthesis, music creation, image editing, programming, and more.
