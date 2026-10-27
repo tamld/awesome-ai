@@ -1,0 +1,34 @@
+name: CI & Quality Gate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Markdown Table & Curator Syntax Gate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate Curator Script & README Structure
+        run: |
+          python -m py_compile .github/scripts/curator.py
+          python -c "
+          text = open('README.md', encoding='utf-8').read()
+          assert '### 🤖 AI Agents & Model Context Protocol (MCP)' in text
+          assert '| No. | Name' in text
+          print('README structure verified.')
+          "

@@ -21,6 +21,7 @@
 - 📚 [Academia](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-academia)
 - 🚀 [Productivity](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-productivity)
 - 📊 [Data & Analytics](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-data--analytics)
+- 🤖 [AI Agents & Model Context Protocol (MCP)](https://github.com/tamld/awesome-ai?tab=readme-ov-file#-ai-agents--model-context-protocol-mcp)
 
 ### 💎 Editor's Choices
 
@@ -176,5 +177,16 @@
 | No. | Name         | Description                                     | Free/Paid | Website                   |
 |-----|--------------|-------------------------------------------------|-----------|---------------------------|
 | 92  | Looker Studio | Business intelligence and analytics platform.   | 💰        | [Looker Studio](https://looker.com) |
+
+### 🤖 AI Agents & Model Context Protocol (MCP)
+
+| No. | Name                           | Description                                                                 | Free/Paid | Website                                                       |
+|-----|--------------------------------|-----------------------------------------------------------------------------|-----------|---------------------------------------------------------------|
+| 94  | Model Context Protocol (MCP)   | Open standard for connecting AI assistants to data sources and tools.       | 🆓        | [MCP Specification](https://modelcontextprotocol.io)          |
+| 95  | Claude Code                    | Agentic terminal coding assistant by Anthropic.                             | 💰        | [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) |
+| 96  | g8s (The Gatekeepers)          | Zero-trust process execution and capability harness for AI CLI workers.     | 🆓        | [g8s](https://github.com/tamld/g8s)                           |
+| 97  | LangGraph                      | Stateful multi-actor agent orchestration framework.                         | 🆓/💰      | [LangGraph](https://github.com/langchain-ai/langgraph)        |
+| 98  | OpenHands                      | Open-source platform for AI software development agents.                    | 🆓        | [OpenHands](https://github.com/All-Hands-AI/OpenHands)        |
+| 99  | Cursor                         | AI-first code editor with multi-file agentic editing.                       | 🆓/💰      | [Cursor](https://cursor.com)                                  |
 
 *Note: This list showcases a broad selection of AI tools available today, offering capabilities from generating art to coding assistance, making it a comprehensive resource for those looking to integrate AI into their workflow.*
