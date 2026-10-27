@@ -105,6 +105,7 @@
 | 50  | Room Reinvented | AI tool to transform room styles            | 🆓/💰      | [Room Reinvented](https://roomreinvented.com) |
 | 51  | Gensbot       | Custom printed merchandise using AI          | 🆓/💰      | [Gensbot](https://gensbot.com)           |
 | 52  | PlantPhotoAI  | Free AI-generated plant images               | 🆓        | [PlantPhotoAI](https://plantphotoai.com) |
+| 93  | Stunna        | Mobile AI photo editing with camera-inspired looks, lighting edits and pose guides | 🆓/💰 | [Stunna](https://stunna-app.com) |
 
 ### 🎨 Graphic Design
 
